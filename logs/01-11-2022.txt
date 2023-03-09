@@ -1,0 +1,4 @@
+::1()--query--tables(delete from table_user_online where time < 1667283142) (13:22:22 01/11/2022)
+::1()--query--tables(delete from table_user_online where time < 1667283145) (13:22:25 01/11/2022)
+::1()--query--tables(delete from table_user_online where time < 1667283146) (13:22:26 01/11/2022)
+::1()--update--product([["","id","=","1"]]) (13:22:26 01/11/2022)
